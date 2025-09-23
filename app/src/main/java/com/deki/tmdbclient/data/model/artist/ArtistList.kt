@@ -1,5 +1,4 @@
-package com.deki.tmdbclient.data
-
+package com.deki.tmdbclient.data.model.artist
 
 import com.google.gson.annotations.SerializedName
 

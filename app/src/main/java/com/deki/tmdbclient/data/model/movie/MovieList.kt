@@ -1,4 +1,4 @@
-package com.deki.tmdbclient.data
+package com.deki.tmdbclient.data.model.movie
 
 import com.google.gson.annotations.SerializedName
 
